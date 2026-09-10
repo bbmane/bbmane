@@ -1,4 +1,4 @@
-## Hi there 👋
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=bbmane&langs_count=10&hide_values=false&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=bbmane&langs_count=10&hide_values=true&theme=dark)
 
 <!--
 **bbmane/bbmane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
