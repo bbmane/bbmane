@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbmane&layout=compact&theme=github_dark)](https://github.com/bbmane)
-
 <!--
 **bbmane/bbmane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
