@@ -1,4 +1,6 @@
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=bbmane&langs_count=10&hide_values=false&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=bbmane&langs_count=10&hide_values=true&theme=dark)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=43z4myx0rxjzqehhp49wh1gyo&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=true&&bar_color=9fadbd)](https://spotify-github-profile.kittinanx.com/api/view?uid=43z4myx0rxjzqehhp49wh1gyo)
+
+<!-- [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=bbmane&langs_count=10&hide_values=false&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=bbmane&langs_count=10&hide_values=true&theme=dark)-->
 
 <!--
 **bbmane/bbmane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
