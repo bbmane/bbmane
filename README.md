@@ -1,7 +1,7 @@
-<img src="https://i.imgur.com/PvHVj5R.png" width="200px">
+<img src="https://i.imgur.com/PvHVj5R.png" width="300px">
 
-__M__ | __31__ |  <img src="https://i.imgur.com/U5QWpBO.png" width="22px" vertical-align='center'>  | __INTP-A__ | <img src="https://64.media.tumblr.com/3412e28ec2228572a99cf95de888c9a2/e8c730d240756e56-1b/s75x75_c1/aed8a3f3d98b58ced7274c290d1d35122b36afab.gif" width="70px" vertical-align='center'> <br>
-_big scifi & cyberpunk enjoyer_
+`M` | `31` |  <img src="https://i.imgur.com/U5QWpBO.png" width="22px" vertical-align='center'>  | `INTP-A` | <img src="https://64.media.tumblr.com/3412e28ec2228572a99cf95de888c9a2/e8c730d240756e56-1b/s75x75_c1/aed8a3f3d98b58ced7274c290d1d35122b36afab.gif" width="70px" vertical-align='center'> <br>
+_`big scifi & cyberpunk enjoyer`_
 
 ##
 
