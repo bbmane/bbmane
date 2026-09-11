@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/PvHVj5R.png" width="250px">
 
-M | 31 |  <img src="https://i.imgur.com/U5QWpBO.png" width="22px" vertical-align='center'>  | INTP-A | <img src="https://64.media.tumblr.com/3412e28ec2228572a99cf95de888c9a2/e8c730d240756e56-1b/s75x75_c1/aed8a3f3d98b58ced7274c290d1d35122b36afab.gif" width="70px" vertical-align='center'><br>
+M | 31 |  <img src="https://i.imgur.com/U5QWpBO.png" width="22px" style="vertical-align:middle">  | INTP-A | <img src="https://64.media.tumblr.com/3412e28ec2228572a99cf95de888c9a2/e8c730d240756e56-1b/s75x75_c1/aed8a3f3d98b58ced7274c290d1d35122b36afab.gif" width="70px" style="vertical-align:middle"><br>
 _big scifi & cyberpunk enjoyer_
 
 ##
