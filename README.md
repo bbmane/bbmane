@@ -20,3 +20,6 @@ _big scifi & cyberpunk enjoyer_
 </td>
 </tr>
 </table>
+
+
+![Now playing](https://bandcamp-now-playing.vercel.app/api/now-playing)
