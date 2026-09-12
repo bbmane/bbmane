@@ -21,5 +21,4 @@ _big scifi & cyberpunk enjoyer_
 </tr>
 </table>
 
-
-![Now playing](https://bandcamp-now-playing.vercel.app/api/now-playing?t=1789219727)
+<!--![Now playing](https://bandcamp-now-playing.vercel.app/api/now-playing?t=1789219727)-->
