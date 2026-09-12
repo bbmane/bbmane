@@ -10,7 +10,7 @@ _big scifi & cyberpunk enjoyer_
 <tr>
 <td width="50%" align="absmiddle">
 
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=43z4myx0rxjzqehhp49wh1gyo"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=43z4myx0rxjzqehhp49wh1gyo&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=true&&bar_color=9fadbd" width="100%" align="absmiddle" /></a>
+<a href="https://www.last.fm/user/bbmane"><img src="https://lastfm-widget-svg.vercel.app/api" width="100%" align="absmiddle" /></a>
 
 </td>
 <td width="50%" align="absmiddle">
