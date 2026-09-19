@@ -15,7 +15,7 @@ _big scifi & cyberpunk enjoyer_
 </td>
 <td width="50%" align="absmiddle">
 
-<a href="https://github-stats-extended.vercel.app/api/top-langs?username=bbmane&langs_count=4&theme=rose_pine"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=bbmane&langs_count=4&theme=rose_pine" width="100%" align="absmiddle" /></a>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bbmane&langs_count=4&theme=rose_pine&card_width=420" alt="Top Langs" width="100%" align="absmiddle">
 
 </td>
 </tr>
